@@ -18,6 +18,6 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
-    "laravel-mix-purgecss": "^2.2.0"
+    "laravel-mix-purgecss": "^5.0.0"
   }
 }
